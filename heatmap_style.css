@@ -1,0 +1,10 @@
+#mapid { 
+    height: 512px;
+    width: 512px;
+    border:1px solid black;
+    margin:auto;
+    }
+
+body {
+	background: rgba(186, 216, 245,0.5);
+}
